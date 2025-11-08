@@ -54,6 +54,9 @@ This forms the analytical foundation for decision-making and business intelligen
 - **Focus:** Analytical SQL (Window functions, CTEs, aggregation, ranking, and ratio analysis)  
 - **Scope:** Data storytelling and analytical queries — no data ingestion or schema creation  
 
+---
+
+## 📂 Repository Structure
 ```bash
 SQL_DataWarehouse_Analytics_Project/
 │
