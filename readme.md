@@ -103,14 +103,6 @@ SQL_DataWarehouse_Analytics_Project/
 
 ---
 
-## 🚀 Future Enhancements
-
-- Automate report refresh through SQL Agent or Python schedulers.  
-- Integrate with **Power BI dashboards** for visual insights.  
-- Extend analysis to include marketing, geography, and inventory datasets.  
-
----
-
 ## 👨‍💻 Author
 
 **Shivam Kumar**  
